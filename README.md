@@ -6,3 +6,9 @@
 This text contains even more information thats useful
 
 [SebErik ](https://github.com/erik-mackie)
+
+
+## Table Contents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
